@@ -2,13 +2,13 @@
 
 ### Overview of the analysis:
 
-The purpose of this project is to perform exploratory analysis of Pyber ride sharing data. In order understand the relationship of ridership and fare metrics by the types of cities in which Pyber operates. By creating a visualization of rideshare data from PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+The purpose of this project is to perform exploratory analysis of Pyber ride sharing data. This analysis will explore the relationship between ridership and fare metrics by the types of cities in which Pyber operates. Ultimately the anaylsis of rideshare data from PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
 ### Results:
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/105955544/179423365-b9ac3ddf-2341-4547-90c9-902560850d9d.png)
 <img width="650" alt="DataFrame Summary" src="https://user-images.githubusercontent.com/105955544/179423692-56dacad3-476a-489a-81e7-8d1b33a0b36f.png">
 
-The multiline graph and DataFrame summary(The above graps) shows several key findings:
+The multiline graph and DataFrame summary(The above visualizations) shows several key findings:
 
 * Urban cities have the highest demand in riders while, rual cities have the smallest.
 
